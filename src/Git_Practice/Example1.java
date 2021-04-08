@@ -9,6 +9,7 @@ public class Example1 {
 		System.out.println("Hi...");
 		System.out.println("Hi...GOOD morning");
 		System.out.println("Hi...GOOD afternoon");
+		System.out.println("hii");
 	}
 
 }
